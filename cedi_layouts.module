@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * @file cedi_layouts.module
+ *
+ * Adds custom panels layouts that are available to content places in
+ * pages and mini-panels.
+ */
+
+function cedi_layouts_ctools_plugin_directory($plugin, $plugin_type) {
+  return 'plugins/' . $plugin_type;
+}

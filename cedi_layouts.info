@@ -1,0 +1,4 @@
+name = Cedi Layouts
+description = Adds custom panels layouts.
+core = 7.x
+package = Cedi
